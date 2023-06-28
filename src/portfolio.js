@@ -36,12 +36,12 @@ const projects = [
     livePreview: 'https://hangmanout.netlify.app',
   },
   {
-    name: 'Wordle Clone',
+    name: 'Simple MERN Todo App',
     description:
-      'A React-based Wordle clone is a web-based game where players guess a randomly generated word within limited attempts, with an intuitive interface for selecting letters and tracking progress.',
-    stack: [ 'React','JavaScript'],
-    sourceCode: 'https://github.com/DEVJDR',
-    livePreview: 'https://reactwordleclone.netlify.app',
+      'The Simple MERN Todo App is a basic yet functional task management application built using the MERN stack (MongoDB, Express.js, React.js, and Node.js). This app allows you to create, update, and delete tasks, providing a simple interface for organizing your to-do list.',
+    stack: [ 'React','MongoDB','Express.js','Node.js'],
+    sourceCode: 'https://github.com/DEVJDR/ToDo',
+    livePreview: 'https://github.com/DEVJDR/ToDo',
   },
 ]
 
