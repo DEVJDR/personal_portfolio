@@ -8,7 +8,7 @@ const about = {
   role: 'Front End Developer',
   description:
   'As a passionate web developer, I possess the technical prowess and expertise required to create visually stunning and high-performing websites that cater to the unique needs of your business. With my proficiency in web development frameworks, such as HTML, CSS, JavaScript, React.js I can effectively craft websites that are dynamic, responsive, and engaging.',
-  resume: 'https://drive.google.com/file/d/1YOyQThg3ip9M2EgpOtqZPQONWdogn99M/view?usp=sharing',
+  resume: 'https://drive.google.com/file/d/1C5PtGsyGEnUHHbtOFF_BFKTgsc-9ovwo/view?usp=sharing',
   social: {
     linkedin: 'https://www.linkedin.com/in/arun-j-dev-150a241b5/',
     github: 'https://github.com/DEVJDR',
