@@ -8,7 +8,7 @@ const about = {
   role: 'Front End Developer',
   description:
   'As a passionate web developer, I possess the technical prowess and expertise required to create visually stunning and high-performing websites that cater to the unique needs of your business. With my proficiency in web development frameworks, such as HTML, CSS, JavaScript, React.js I can effectively craft websites that are dynamic, responsive, and engaging.',
-  resume: 'https://drive.google.com/file/d/1_xbM6_FBBxreBJ5EmQbMlUuSd7b9Wt2L/view?usp=sharing',
+  resume: 'https://drive.google.com/file/d/17u6qC_r5Mm81Htu3RKkl82MnuSy0bS44/view?usp=sharing',
   social: {
     linkedin: 'https://www.linkedin.com/in/arun-j-dev-150a241b5/',
     github: 'https://github.com/DEVJDR',
@@ -20,7 +20,7 @@ const projects = [
   {
   name: 'RunIt',
   description:
-    "RunIt is an online code editor that allows users to write, compile, and execute code in 40+ languages directly in the browser. Built with a VS Code-inspired theme, it supports theme switching, custom input, and real-time output for a seamless coding experience.",
+    "RunIt is an online code editor that allows users to write, compile, and execute code in 10+ languages directly in the browser. Built with a VS Code-inspired theme, custom input, and real-time output for a seamless coding experience.",
   stack: ['React.js', 'Monaco Editor', 'Tailwind CSS', 'Judge0 API'],
   sourceCode: 'https://github.com/DEVJDR/reactcodeditor',
   livePreview: 'https://reactcodeditor.vercel.app',
@@ -46,7 +46,7 @@ const projects = [
   description:
     'A mobile app built with React Native to help users build daily habits and stay focused. Features include task prompts, focus mode, and customizable reminders, designed for a seamless and accessible user experience.',
   stack: ['React Native', 'Expo', 'CSS'],
-  sourceCode: 'https://github.com/DEVJDR',
+  sourceCode: 'https://github.com/DEVJDR/ADHD_Pro',
   livePreview: 'https://github.com/DEVJDR',
 }
 
