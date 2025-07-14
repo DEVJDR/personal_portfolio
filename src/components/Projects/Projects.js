@@ -4,11 +4,12 @@ import ProjectContainer from '../ProjectContainer/ProjectContainer'
 import './Projects.css'
 
 const Projects = () => {
-  if (!projects.length) return null
+console.log(  projects.length) 
+ if (!projects.length) return null
 
   return (
     <section id='projects' className='section projects'>
-      <h2 className='section__title'>Projects</h2>
+      <h2 className='section__title'>Project</h2>
 
       <div className='projects__grid'>
         {projects.map((project) => (

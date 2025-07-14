@@ -6,6 +6,7 @@ import Projects from './components/Projects/Projects'
 import Skills from './components/Skills/Skills'
 import ScrollToTop from './components/ScrollToTop/ScrollToTop'
 import Contact from './components/Contact/Contact'
+import Experience from './components/Experience/Experience'
 import './App.css'
 
 const App = () => {
@@ -18,6 +19,7 @@ const App = () => {
       <main>
         <About />
         <Projects />
+        <Experience/>
         <Skills />
         <Contact />
       </main>
