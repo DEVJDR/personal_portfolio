@@ -42,12 +42,12 @@ const projects = [
   livePreview: 'https://github.com/DEVJDR/Veg_prod_app',
 },
   {
-  name: 'Productivity Tool for ADHD',
+  name: 'NeuroEase',
   description:
     'A mobile app built with React Native to help users build daily habits and stay focused. Features include task prompts, focus mode, and customizable reminders, designed for a seamless and accessible user experience.',
   stack: ['React Native', 'Expo', 'CSS'],
-  sourceCode: 'https://github.com/DEVJDR/ADHD_Pro',
-  livePreview: 'https://github.com/DEVJDR',
+  sourceCode: 'https://github.com/DEVJDR/NeuroEaseApp',
+  livePreview: 'https://neuro-ease-hazel.vercel.app',
 }
 
 
@@ -78,7 +78,7 @@ const experience = [
   livePreview: 'https://kplr.in/',
 },
 {
-  name: 'Productivity Tool for ADHD',
+  name: 'NeuroEase',
   description:
     'Built a mobile app using React Native to help users build and maintain productive daily habits. Focused on clean design, seamless navigation, state management, and accessibility for an easy and clutter-free experience.',
   stack: [
@@ -90,7 +90,7 @@ const experience = [
     'State Management (Zustand)',
     'Navigation (React Navigation)',
   ],
-  livePreview: 'https://github.com/DEVJDR',
+  livePreview: 'https://neuro-ease-hazel.vercel.app',
 }
 
 
